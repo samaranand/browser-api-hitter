@@ -1,0 +1,15 @@
+.right-radius-0{
+    border-bottom-right-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+
+
+.left-radius-0{
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+}
+
+.inp-text-area {
+    width: 90% !important;
+    min-height: 400px !important;
+}
